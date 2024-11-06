@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! 
 I'm a passionate Full-Stack Developer and UI/UX Designer who focuses on creating seamless user experiences and scalable web applications. I also have a keen interest in Blockchain and Data Structures and algorithms (DSA), aiming to merge clean code with innovative technology.
 
+![Profile Views](https://komarev.com/ghpvc/?username=ronakmaheshwari&color=blue)
+
 ## 🚀 About Me
 
 - 🌐 Full Stack, UI/UX, Blockchain, and DSA expertise.
