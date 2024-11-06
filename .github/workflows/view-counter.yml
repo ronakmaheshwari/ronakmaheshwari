@@ -1,0 +1,31 @@
+name: Profile View Counter
+
+on:
+  page_build:
+    types: [deployment]
+
+jobs:
+  update_counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Read current count
+        id: read_count
+        run: |
+          count=$(cat counter.txt)
+          echo "::set-output name=count::$count"
+
+      - name: Increment count
+        run: |
+          count=$(cat counter.txt)
+          echo $((count + 1)) > counter.txt
+
+      - name: Commit updated count
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add counter.txt
+          git commit -m "Increment view counter"
+          git push
