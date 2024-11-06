@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! 
 I'm a passionate Full-Stack Developer and UI/UX Designer who focuses on creating seamless user experiences and scalable web applications. I also have a keen interest in Blockchain and Data Structures and Algorithms (DSA), aiming to merge clean code with innovative technology.
 
-![Profile Views](https://hits.dwyl.com/ronakmaheshwari/ronakmaheshwari.svg?style=flat-square&show=unique&label=Profile+Views&color=purple&count=500)
-
+![Profile Views](https://hits.dwyl.com/ronakmaheshwari/ronakmaheshwari.svg?style=flat-square&show=unique&label=Profile+Views&color=blue&count=500)
 
 ## 🚀 About Me
 
