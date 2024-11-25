@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Ronak Maheshwari
 
-Welcome to my GitHub profile! 
-I'm a passionate Full-Stack Developer and UI/UX Designer who focuses on creating seamless user experiences and scalable web applications. I also have a keen interest in Blockchain and Data Structures and Algorithms (DSA), aiming to merge clean code with innovative technology.
+Experienced full-stack developer with a strong foundation in JavaScript, and TypeScript, specializing in API design, machine learning, and backend development. Skilled in building scalable solutions across diverse tech stacks, including Next.js, Supabase, and Tailwind CSS, with a keen interest in privacy-focused and developer- centric tools
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ronakmaheshwari&color=green&background-color=black" style="padding: 20px; border-radius: 10px;">
