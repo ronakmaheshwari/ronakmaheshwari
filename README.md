@@ -50,6 +50,12 @@ With Craddle, Create your personalized sound environment. Choose from 20 high-qu
 
 For more, check out my pinned repositories!
 
+## 📊 GitHub Stats  
+![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronakmaheshwari&show_icons=true&count_private=true&theme=radical)  
+
+## 🏆 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronakmaheshwari&theme=radical)  
+
 ## 📫 Contact Me
 
 Let's connect and collaborate!  
