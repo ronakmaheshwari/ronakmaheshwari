@@ -4,10 +4,10 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=30&duration=3000&color=800080&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Ronak+Maheshwari+👋;Full+Stack+Developer+💻;Let's+Connect!+🤝"/>
 
   <div>
-    <a href="https://x.com/your_twitter" target="_blank">
+    <a href="https://x.com/0xronak077" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-800080?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://www.linkedin.com/in/rbm77/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </div>
@@ -24,7 +24,7 @@
   
   ⚡ Fun fact: I love turning coffee into code ☕
   
-  📫 Reach me at ronak.dev@email.com
+  📫 Reach me at ronakmaheshwari077@gmail.com
 </div>
 
 <br/>
@@ -61,10 +61,10 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=ronakmaheshwari&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ronakmaheshwari&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="Streak Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronakmaheshwari&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="Streak Graph" />
 </div>
 
 ## Github Activity
 <p align="center">
-   <img src="https://github.com/ronakmaheshwari/ronakmaheshwari/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
+   <img src="https://github.com/ronakmaheshwari/ronakmaheshwari/blob/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </p>
