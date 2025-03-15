@@ -8,6 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Ensures it can push the SVG file
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -23,6 +26,6 @@ jobs:
       - name: Push Generated Files
         uses: EndBug/add-and-commit@v9
         with:
-          default_author: github_actions
           message: "Updated snake animation"
           add: "dist/*.svg"
+          push: true
