@@ -66,5 +66,5 @@
 
 ## Github Activity
 <p align="center">
-  <img src="https://github.com/ronakmaheshwari/ronakmaheshwari/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
+   <img src="https://github.com/ronakmaheshwari/ronakmaheshwari/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </p>
