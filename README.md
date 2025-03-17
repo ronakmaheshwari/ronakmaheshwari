@@ -36,7 +36,7 @@
   <img src="https://komarev.com/ghpvc/?username=ronakmaheshwari&style=for-the-badge&color=800080" alt="Profile Views" />
 </p>
 
-## Technologies
+## Jack of All Trades
  
 <table>
 <tr>
@@ -62,6 +62,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=ronakmaheshwari&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronakmaheshwari&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="Streak Graph" />
+<!--   <img src="https://streak-stats.demolab.com/?user=ronakmaheshwari&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="Streak Graph" /> -->
 </div>
 
 ## Github Activity
