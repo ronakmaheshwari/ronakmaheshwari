@@ -37,8 +37,18 @@
 </p>
 
 ## Jack of All Trades
- 
-<table>
+
+ <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
+    <br>
+</div>
+
+<br/>
+<hr/>
+<!-- <table>
 <tr>
     <td><strong>Languages</strong></td>
     <td><strong>Frontend</strong></td>
@@ -55,7 +65,7 @@
     <td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,supabase,redis,firebase,fastapi&theme=light"></td>
     <td><img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light"></td>
 </tr>
-</table>
+</table> -->
 
 ## Github Stats
 
