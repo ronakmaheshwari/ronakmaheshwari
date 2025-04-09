@@ -79,3 +79,8 @@
 <p align="center">
    <img src="https://github.com/ronakmaheshwari/ronakmaheshwari/blob/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ronakmaheshwari&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
