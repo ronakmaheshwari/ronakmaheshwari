@@ -7,7 +7,7 @@
     <a href="https://x.com/0xronak077" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-800080?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="https://www.linkedin.com/in/rbm77/" target="_blank">
+    <a href="https://portfolio-10xdevs.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </div>
