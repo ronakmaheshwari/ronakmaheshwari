@@ -4,7 +4,7 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=30&duration=3000&color=800080&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Ronak+Maheshwari+👋;Full+Stack+Developer+💻;Let's+Connect!+🤝"/>
 
   <div>
-    <a href="https://x.com/0xronak077" target="_blank">
+    <a href="https://x.com/0xronakm" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-800080?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://ronak.10xdevs.me/" target="_blank">
