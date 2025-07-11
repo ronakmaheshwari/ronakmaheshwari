@@ -39,11 +39,98 @@
 ## Jack of All Trades
 
  <br/>
+ 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
-    <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
-    <br>
+  <!-- Row 1 -->
+  <span title="React">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </span>
+  <span title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </span>
+  <span title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </span>
+  <span title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </span>
+  <span title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </span>
+  <span title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </span>
+  <span title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </span>
+  <span title="Git">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </span>
+  <span title="R">
+    <img src="https://skillicons.dev/icons?i=r" />
+  </span>
+
+  <br />
+
+  <!-- Row 2 -->
+  <span title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </span>
+  <span title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </span>
+  <span title="Express.js">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </span>
+  <span title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </span>
+  <span title="Python">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </span>
+  <span title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </span>
+  <span title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </span>
+  <span title="Kubernetes">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+  </span>
+  <span title="GraphQL">
+    <img src="https://skillicons.dev/icons?i=graphql" />
+  </span>
+
+  <br />
+
+  <!-- Row 3 -->
+  <span title="Java">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </span>
+  <span title="AWS">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </span>
+  <span title="Rust">
+    <img src="https://skillicons.dev/icons?i=rust" />
+  </span>
+  <span title="Redis">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </span>
+  <span title="Bash">
+    <img src="https://skillicons.dev/icons?i=bash" />
+  </span>
+  <span title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </span>
+  <span title="Google Cloud">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </span>
+  <span title="Ubuntu">
+    <img src="https://skillicons.dev/icons?i=ubuntu" />
+  </span>
+  <span title="GitHub Actions">
+    <img src="https://skillicons.dev/icons?i=githubactions" />
+  </span>
 </div>
 
 <br/>
