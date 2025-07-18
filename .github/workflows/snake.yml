@@ -1,15 +1,45 @@
+# name: Generate Snake Animation
+
+# on:
+#   # schedule:
+#   #   - cron: "0 0 * * *" # Runs daily at midnight UTC
+#   workflow_dispatch:
+
+# jobs:
+#   generate:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write  # Ensures it can push the SVG file
+
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v4
+
+#       - name: Generate Snake SVG
+#         uses: Platane/snk@v3
+#         with:
+#           github_user_name: ronakmaheshwari
+#           outputs: |
+#             dist/github-contribution-grid-snake.svg
+#             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+#       - name: Push Generated Files
+#         uses: EndBug/add-and-commit@v9
+#         with:
+#           message: "Updated snake animation"
+#           add: "dist/*.svg"
+#           push: true
+
 name: Generate Snake Animation
 
 on:
-  # schedule:
-  #   - cron: "0 0 * * *" # Runs daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Ensures it can push the SVG file
 
     steps:
       - name: Checkout Repository
@@ -23,9 +53,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Generated Files
-        uses: EndBug/add-and-commit@v9
+      - name: Upload Generated Snake SVGs as Artifacts
+        uses: actions/upload-artifact@v4
         with:
-          message: "Updated snake animation"
-          add: "dist/*.svg"
-          push: true
+          name: snake-animations
+          path: dist/
